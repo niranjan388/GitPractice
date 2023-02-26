@@ -6,7 +6,11 @@ public class New2class {
 		// TODO Auto-generated method stub
 		System.out.println("Hiii");
 
-//updated in Main Branch
+
+		
+		
+		//Added in class 2 Niranjan Branch
+
 
 
 
