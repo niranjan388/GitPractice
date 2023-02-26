@@ -7,7 +7,7 @@ public class New2class {
 		System.out.println("Hiii");
 
 
-		//Added in Class 2 Main Branch
+		
 		
 		//Added in class 2 Niranjan Branch
 
