@@ -9,7 +9,11 @@ public class New2class {
 
 		
 		
+
 		//Added in class 2 Niranjan Branch locla
+
+		//Added in class 2 Niranjan Branch Remote Place
+
 
 
 
