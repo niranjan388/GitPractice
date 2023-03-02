@@ -7,7 +7,6 @@ public class NewClass {
 		System.out.println("Hiii");
 
 		
-		// newww 
 	}
 
 }
