@@ -9,7 +9,11 @@ public class New2class {
 		System.out.println("Hiii");
 
 		//added in local 
+		//aa
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 		
 		//neeee
