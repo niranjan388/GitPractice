@@ -10,13 +10,14 @@ public class New2class {
 
 		//added in local 
 		//aa
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 
 		
+
 		//neeee
+
+		//added in remote place 
+
 
 
 
